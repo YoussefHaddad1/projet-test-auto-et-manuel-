@@ -31,9 +31,9 @@ Le projet couvre **6 fonctionnalités critiques** de l'application :
 
 | Nom & Prénom | Rôle principal | Contribution |
 |--------------|----------------|--------------|
-| **Yassine Ben Said** | Chef d'équipe – Automatisation & Test manuel | Scripts Selenium, structure des tests, rédaction Overleaf, bug reporting, exécution complète |
+| **Youssef Haddad** | Chef d'équipe – Automatisation & Test manuel | Scripts Selenium, structure des tests, rédaction Overleaf, bug reporting, exécution complète |
 | **Ala Jeridi** | QA Engineer – Conception & Automatisation | Conception cas de test, analyse des risques, rédaction des plans de test, support automatisation |
-| **Saad** | Testeur Manuel – Documentation | Rapports d'anomalies, exécution manuelle, captures, organisation du rapport |
+| **aZIZ Saad** | Testeur Manuel – Documentation | Rapports d'anomalies, exécution manuelle, captures, organisation du rapport |
 
 🟦 *Répartition équitable du travail respectée conformément aux exigences académiques.*
 
